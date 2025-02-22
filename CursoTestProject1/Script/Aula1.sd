@@ -1,0 +1,7 @@
+﻿procedure aula1;
+
+begin 
+
+  Log.message('Hello Word!');
+  
+end; 
